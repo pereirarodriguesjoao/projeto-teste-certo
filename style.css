@@ -7,7 +7,7 @@ header{
 background-color: gold;
 align-items: center;
 justify-content: space-between;
-padding: 20px;
+padding: 10px;
 display: flex;
 }
 h1{
@@ -16,11 +16,11 @@ font-size: 30px;
 
 }
 input{
-width: 100px;
+width: 400px;
 height: 10px;
 }
 button{
 background-color: wheat;
-width: 50px;
+width: 150px;
 border-radius: 30px;
 }
