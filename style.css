@@ -1,0 +1,21 @@
+body{
+background-color: burlywood;
+margin: 0;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+background-color: gold;
+align-items: center;
+justify-content: space-between;
+padding: 20px;
+display: flex;
+}
+h1{
+
+}
+input{
+
+}
+button{
+
+}
